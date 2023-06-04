@@ -1,5 +1,5 @@
 # AndroidCourseDay5
-Day 5 of My Android Course.
+Day-5 of Android Course:- How to Open others app using Implicit intent clicking on the buttons, cardView.
 <hr><hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
